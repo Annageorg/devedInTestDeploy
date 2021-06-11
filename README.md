@@ -10,4 +10,4 @@ Wanna showcase your amazing work and expertise, create, comment, or like posts, 
 * Uses Gravatar to fetch a user's avatar or create one if they don't have one
 * Client created with React, with state management through Redux. React Hooks are used
 * User must sign up to be able to view protected routes
-* App deployed to Heroku link can be found [here](https://salty-temple-16064.herokuapp.com/)
+* App deployed to Heroku, link can be found [here](https://salty-temple-16064.herokuapp.com/)
