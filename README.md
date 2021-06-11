@@ -1,4 +1,4 @@
-#MERN- stack application deployed in Heroku
+# MERN- stack application deployed in Heroku
 
 ## Application from developers to developers. 
 Wanna showcase your amazing work and expertise, create, comment, or like posts, or maybe just expore this developer community? Then this is the App for you.
