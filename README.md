@@ -1,7 +1,7 @@
 # MERN- stack application deployed in Heroku
 
 ## Application from developers to developers. 
-Wanna showcase your amazing work and expertise, create, comment, or like posts, or maybe just expore this developer community? Then this is the App for you.
+Wanna showcase your amazing work and expertise, create, comment, or like posts, or maybe just explore this developer community? Then this is the App for you.
  
 ## Details
 * This App uses MongoDb and all passwords are encrypted
